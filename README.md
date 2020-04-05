@@ -6,4 +6,4 @@ welcome to 2020
 ravi online batch
 this is github webhooks option trying
 day builds option
-this is poll scm 
+ 
